@@ -1,0 +1,11 @@
+body {
+
+   background: linear-gradient(-45deg, #01024e, #543864, #ff6464, #ffd739);}
+   header{height: 700px;}
+header h2{color: blue ; background-color:#f3f70988}
+a:hover{color: rgb(33, 180, 224) ;background-color:#dd6070}
+a{ text-decoration-line: none ; float :right}
+.first{color : rgb(157, 226, 235)}
+.sec{color: yellow}
+.third{color:red}
+#sec{font-family: arial}
