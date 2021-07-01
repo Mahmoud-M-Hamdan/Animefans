@@ -1,9 +1,16 @@
 var name= prompt("what is your name ?")
 alert("Welcome "+ name + " :)")
+<<<<<<< HEAD
 /*var answer= prompt("are you Anime Fan . . Please answer y or n " )
 
 if (answer=="y"){alert("Great , lets go then ")}
 else{alert("Look at my eye and be honest ..what r u doing here ?  ")} */
+=======
+var answer= prompt("are you Anime Fan . . Please answer y or n " )
+
+if (answer=="y"){alert("Great , lets go then ")}
+else{alert("Look at my eye and be honest ..what r u doing here ?  ")} 
+>>>>>>> 229d109ae5bda5d8771b4118e6899c646064550c
 var favanime= prompt("what is your favourite anime naruto , hunter , one piece , or else ")
 if (favanime =="hunter"){alert("You r a good boy")+ document.write(" Hunter family thanks u")}
 else if (favanime=="naruto"){alert("good choice")+ document.write(" Naruto family thanks u")}
