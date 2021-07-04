@@ -2,10 +2,13 @@ body {
 
    background: linear-gradient(-45deg, #01024e, #543864, #ff6464, #ffd739);}
    header{height: 700px;}
-header h2{color: blue ; background-color:#f3f70988}
-a:hover{color: rgb(33, 180, 224) ;background-color:#dd6070}
-a{ text-decoration-line: none ; float :right}
-.first{color : rgb(157, 226, 235)}
+header h2{color: blue ; background-color:#f3f70988
+; border-style: dashed ;padding: 6px }
+a:hover{color: rgb(33, 180, 224) ;background-color:#dd6070
+}
+a{ text-decoration-line: none ; float :right;height:20px ;border-style: solid  ;  }
+.first{color : rgb(157, 226, 235); height: 50 ; width: 50}
 .sec{color: yellow}
 .third{color:red}
-#sec{font-family: arial}
+#sec{font-family: arial; border-style: dotted ; padding: 4px ; margin:6px}
+p{color: hsl(404, 95, 44,1))}
